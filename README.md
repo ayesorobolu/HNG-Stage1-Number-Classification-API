@@ -31,7 +31,7 @@ Ensure you have Node.js installed on your system. You can download it from Node.
 
 Clone this repository:
 
-git clone https://github.com/your-repo/number-classification-api.git
+git clone https://github.com/ayesorobolu/HNG-Stage1-Number-Classification-API
 
 cd number-classification-api
 
